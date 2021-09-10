@@ -1,0 +1,24 @@
+/* rule-set #1: Everything within the body tag will have a blue backgroun. */
+body {
+    background-color: blue;
+}
+
+/* rule-set #2: Everything within a css-classes class will have a lightgrey background. */
+.css-classes {
+    background-color: lightgray;
+}
+/*rule #3: tags within css-classes class will have font size 18 pxls.*/
+.css-classes h1{
+    font-size: 18px;
+}
+/*rule 4: all p tags within a css-classes class will have green font - 16px*/
+.css-classes p{
+    font-size: 16px;
+    color: green;
+}
+
+/*rile 5: all li items in css-classes will have blue font*/
+
+.css-classes li{
+    color: blue;
+}

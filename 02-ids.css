@@ -1,0 +1,21 @@
+/*testing*/
+/*body {
+    background-color: blue;   
+}*/
+/*rule 1*/
+#number-one{
+    color:red;
+}
+
+/*rule two*/
+#number-two{
+    font-size: 16px;
+}
+/*rule three*/
+.first-class{
+    color: green;
+}
+/*rule four*/
+.second-class{
+    font-size: 24px;
+}
